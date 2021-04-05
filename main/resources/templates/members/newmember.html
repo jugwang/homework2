@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>회원가입</title>
+</head>
+<body>
+<!--form action -> submit 이후 올 url 지정-->
+<form action="/" method="post">
+    <label for="name">이름</label>
+    <label for="Name"><input type="text" id="Name" name="name" placeholder="이름을 입력하세요"></label>
+    <label for="id">id</label>
+    <label><input type="text" id="Id" name="id" placeholder="이름을 입력하세요"></label>
+    <label for="password">password</label>
+    <label><input type="password" id="Password" name="password" placeholder="비밀번호를 입력하세요"></label>
+    <button type="submit" value="create">등록</button>
+</form>
+</body>
+</html>
