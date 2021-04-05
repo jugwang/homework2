@@ -1,0 +1,10 @@
+sns/demo/domain/Member.java
+ sns.demo.domain.Member
+sns/demo/repository/MemberRepository.java
+ sns.demo.repository.MemberRepository
+sns/demo/DemoApplication.java
+ sns.demo.DemoApplication
+sns/demo/service/MemberService.java
+ sns.demo.service.MemberService
+sns/demo/controller/ViewController.java
+ sns.demo.controller.ViewController
